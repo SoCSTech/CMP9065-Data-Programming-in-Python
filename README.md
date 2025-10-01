@@ -1,6 +1,22 @@
 # CMP9065 - Data Programming in Python
 This repository houses the course materials for the Data Programming in Python module at the University of Lincoln. 
 
+### For running the code in INB computer labs (2025/2026):
+The computer labs are already setup to automatically pull changes from this repository and you can open this directly from VS Code by:
+1. Make sure Docker is running, by double-clicking on the Docker icon <img width="63" height="55" alt="image" src="https://github.com/user-attachments/assets/68d7e1ca-6f11-4110-b2ca-1bdfefdedc60" /> in the Window's TaskBar
+3. On the desktop, find and open the folder Docker Containers <img width="84" height="106" alt="image" src="https://github.com/user-attachments/assets/d957855c-5e23-4f7a-b4e3-493e9b69f00d" />
+4. Double-click "Computer Science & Robotics" <img height="106" alt="image" src="https://github.com/user-attachments/assets/2f00c8a5-ff6f-4689-b903-b545c6550d2d" />
+5. Double-click "CMP9065 Data Programming in Python" <img width="335" height="60" alt="image" src="https://github.com/user-attachments/assets/1a9e92d1-182f-42d2-a5b8-d309dfe952bc" /> This will open the VS Code application with the module's materials.
+6. An alert will appear on the bottom right corner, click "Reopen in Container" <img height="100" alt="image" src="https://github.com/user-attachments/assets/67ca0a43-662c-468d-87cb-55b4c67e36a0" />
+    * Alternatively, click the small Remote Window icon in the bottom left <img width="48" height="31" alt="image" src="https://github.com/user-attachments/assets/5283726d-7603-44f4-9e1f-883bc993c719" /> then select "Reopen in Container".
+7. Once the devcontainer setup has terminated you are ready to open and run code with the Jupyter Notebooks! 
+
+
+
+
+
+
+### For running the code on any other PC:
 In order to set up your personal computer to run the module lectures and workshops' Jupyter Notebooks, you have two options:
 
  - [Setup with Docker](#setup-with-docker) - this is the same setup you have in the labs PC.
